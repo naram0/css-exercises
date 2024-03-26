@@ -11,7 +11,7 @@
 
 .odd {
     background-color: rgb(254, 176, 189);
-    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }   
 
 .odd.cooler {
